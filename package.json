@@ -1,0 +1,14 @@
+{
+  "name": "bs-service",
+  "version": "1.0.0",
+  "description": "BS-service for demo with Prisma Console.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sanho LEE",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
